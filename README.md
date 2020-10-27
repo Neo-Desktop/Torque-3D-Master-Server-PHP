@@ -10,7 +10,7 @@ With help from reading serverquery.cc, c3masterserver.pl from Thomas Lund and Py
 ### Todo
 * Needs additional testing and class-style refactor
 
-####Change Log
+###Change Log
 ```
 * 10/27/2020 PSR12 formatting, adopted MIT License
 * 04/28/2009 Query check changed to accept case insensitive values.
